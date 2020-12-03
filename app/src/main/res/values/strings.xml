@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BloodBank</string>
+    <string name="title_activity_tabbed">Tabbed</string>
+    <string name="tab_text_1">SEARCH DONOR</string>
+    <string name="tab_text_2">BLOOD BANK</string>
+    <string name="tab_text_3">MY DETAILS</string>
+</resources>
